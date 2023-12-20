@@ -1,3 +1,3 @@
 ## Information
 
-Ein funktionierender Schülernamen verwalter.
+Ein funktionierender Schülernamen-Verwalter.
